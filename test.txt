@@ -1,5 +1,9 @@
 Git Demo data
 Demo for update
 not for 
+<<<<<<< HEAD
 
 added for test conflict
+=======
+git added for error
+>>>>>>> af2d0c12483674aee6ee3331fc911d6263bbf644
